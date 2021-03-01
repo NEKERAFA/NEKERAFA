@@ -6,7 +6,7 @@ local NEKERAFA = {
   pronoums = "He/Him",
   location = "A Coruña - Galiza (Spain)",
   languages = {"galician", "spanish", "english"},
-  engines = {"LÖVE", "PyGame", "OneLua", "Unity 3D"}
+  engines = {"LÖVE", "PyGame", "OneLua", "Unity 3D"},
   currently_working = "https://github.com/NEKERAFA/CS-IndustryLP"
 }
 ```
