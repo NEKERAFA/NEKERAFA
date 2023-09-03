@@ -2,12 +2,12 @@
 
 ```lua
 local NEKERAFA = {
-  fullname = "Rafael Alcalde Azpiazu",
-  pronoums = "He/Him",
+  fullname = "Rafa Alcalde Azpiazu",
+  pronoums = "They/Them",
   location = "A Coruña - Galiza (Spain)",
   languages = {"galician", "spanish", "english"},
-  engines = {"LÖVE", "PyGame", "OneLua", "Unity 3D"},
-  currently_working = "https://github.com/NEKERAFA/CS-IndustryLP"
+  engines = {"Godot", "LÖVE", "PyGame", "OneLua", "Unity"},
+  currently_working = "https://github.com/NEKERAFA/CAH-twitch"
 }
 ```
 
